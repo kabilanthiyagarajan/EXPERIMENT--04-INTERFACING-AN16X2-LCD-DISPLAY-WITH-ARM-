@@ -188,7 +188,7 @@ REG NO: 212222230059
   Lcd_cursor(&lcd, 0,0);
   Lcd_string(&lcd,"AIML");
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd,"CHARUMATHI");
+  Lcd_string(&lcd,"kabilan T");
 
 
 ```
@@ -197,7 +197,8 @@ REG NO: 212222230059
  ## BEFORE:
  ![B4 PMC](https://github.com/Nandhinijaya/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121998147/e8c9346d-8725-4add-a09b-ffa5bc2ed5ac)
  ## AFTER:
- ![AF PMC](https://github.com/Nandhinijaya/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121998147/daa11c0f-42a7-4b5f-a6fc-74259363aa11)
+![WhatsApp Image 2024-05-07 at 13 34 40_f6c36751](https://github.com/kabilanthiyagarajan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/120206067/0c76c1c7-fdef-43cb-b62b-8c0511595f6d)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
